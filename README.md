@@ -5,6 +5,7 @@ sports quizzes by combining a local vector knowledge base with live web search,
 then handing verified context to an LLM to eliminate hallucinated facts.
 
 🔗 **Live Demo:** [sports-quiz-agent.onrender.com](https://sports-quiz-agent.onrender.com)
+🔗 **Video Demo:** https://www.loom.com/share/184b225ae1694f86aa436dd49921860f
 
 ---
 
